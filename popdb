@@ -198,4 +198,8 @@ flash.net:inbound.att.net:995
 wans.net:inbound.att.net:995
 snet.net:inbound.att.net:995
 med-event.fr:mail.wmaker.net:995
-meta.ua:pop.meta.ua:995
+purple.plala.or.jp:purple.mail.plala.or.jp:110
+m4.cty-net.ne.jp:pops.cty-net.ne.jp:995
+verizon.net:pop.verizon.net:995
+suddenlink.net:pop.suddenlink.net:110
+cebridge.net:pop3.cebridge.net:110
