@@ -211,3 +211,6 @@ email.ua:pop.email.ua:995
 abv.bg:pop3.abv.bg:995
 mail.bg:mail.mail.bg:995
 email.bg:mail.mail.bg:995
+dmci.net:mail.localnet.com:110
+tdi.net:mail.localnet.com:110
+eurekanet.com:mail.localnet.com:110
